@@ -10,7 +10,7 @@ use_github_binaries: false              # Set to true if you want to use pre-bui
 architecture:                           # Set it to aarch64 or amd64 based on your machine architecture to update using prebuilt releases
 
 telegram:
-  bot_token:"${TELEGRAM_BOT_TOKEN}"
+  bot_token: "${TELEGRAM_BOT_TOKEN}"
   #api_url: http://localhost:8082        # Uncomment if you have a local bot API server running (for bypassing file size limits)
   self_hosted_api: false
   owner_id: 749868891
