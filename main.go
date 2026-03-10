@@ -22,6 +22,8 @@ import (
 )
 
 func main() {
+	startServer()
+
 	// Load configuration file
 	cfg := state.State.Config
 	cfg.SetDefaults()
