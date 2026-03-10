@@ -15,7 +15,7 @@
 # vendor/
 
 *.yaml
-!sample_config.yaml
+config.yaml
 
 /watgbridge
 *.db
