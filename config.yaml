@@ -16,7 +16,7 @@ telegram:
   owner_id: 749868891
   sudo_users_id:
     - 704338780
-  target_chat_id: -1002376634559              # This is the chat where messages will be forwarded (note the "100" prefix of a supergroup)
+  target_chat_id: -1003452564064             # This is the chat where messages will be forwarded (note the "100" prefix of a supergroup)
   skip_video_stickers: false              # Setting this as true will stop trying to convert telegram video stickers to webp and sending them
   skip_setting_commands: false            # This will not show you list of commands when you start typing / in telegram
 
