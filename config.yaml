@@ -84,9 +84,9 @@ whatsapp:
 #  port: 5432
 #  time_zone: Asia/Kolkata
 
-#database:
- type: sqlite
- path: ./gobot.sqlite.db
+database:
+  type: sqlite
+  path: ./gobot.sqlite.db
 
 #database:
 #  type: mysql
