@@ -54,7 +54,7 @@ whatsapp:
   skip_voice_notes: true
   skip_audios: true
   skip_stickers: true
-  skip_status: false
+  skip_status: true
   skip_contacts: false
   skip_locations: false
   skip_profile_picture_updates: false
